@@ -1,0 +1,18 @@
+DirectoryIndex index.html
+
+<FilesMatch "^(db_connect\.php|\.htaccess)">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+Options -Indexes
+
+ServerSignature Off
+
+
+AddDefaultCharset UTF-8
+    
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^https?://jabonmekarplant\.serv00\.net(/|$) [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]

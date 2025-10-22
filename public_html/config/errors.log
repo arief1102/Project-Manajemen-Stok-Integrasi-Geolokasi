@@ -1,0 +1,178 @@
+[15-Oct-2024 09:05:37 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 613
+[15-Oct-2024 09:08:36 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 613
+[15-Oct-2024 09:08:57 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 613
+[15-Oct-2024 09:41:01 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 613
+[15-Oct-2024 09:46:10 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 614
+[15-Oct-2024 09:49:31 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 582
+[15-Oct-2024 09:51:57 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 581
+[15-Oct-2024 09:53:29 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 581
+[15-Oct-2024 10:08:06 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 581
+[15-Oct-2024 10:08:22 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 581
+[15-Oct-2024 10:09:12 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 581
+[15-Oct-2024 10:09:53 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 581
+[15-Oct-2024 10:10:15 Europe/Warsaw] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/public_browse_plants.php on line 581
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:54:32 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:54:32 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:54:32 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:54:32 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:54:32 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:54:32 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:54:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:55:09 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:55:09 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:55:09 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:55:09 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:55:09 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:55:09 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:55:09 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] PHP Warning:  Undefined variable $plant in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/lihat_tanaman.php on line 139
+[14-Nov-2024 10:57:32 Europe/Warsaw] PHP Warning:  Trying to access array offset on value of type null in /usr/home/jabonmekarplant/domains/jabonmekarplant.serv00.net/public_html/lihat_tanaman.php on line 139
+[14-Nov-2024 10:57:32 Europe/Warsaw] Calathea plant details for petani_id :
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:57:32 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:57:32 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:57:32 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:57:32 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:57:32 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:57:32 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:57:32 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:58:55 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:58:55 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 1:
+[14-Nov-2024 10:58:55 Europe/Warsaw] {"nama":"calathea","plant_id":35,"is_deleted":0,"total_sold":null,"number_of_orders":0}
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:58:55 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:58:55 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 1:
+[14-Nov-2024 10:58:55 Europe/Warsaw] {"nama":"calathea","plant_id":35,"is_deleted":0,"total_sold":null,"number_of_orders":0}
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 1:
+[14-Nov-2024 10:58:55 Europe/Warsaw] {"nama":"Caladium","plant_id":34,"total_sold":"47","number_of_orders":2,"rounded_total":"47"}
+[14-Nov-2024 10:58:55 Europe/Warsaw] {"nama":"Rombusa Mini","plant_id":32,"total_sold":"31","number_of_orders":3,"rounded_total":"31"}
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 1:
+[14-Nov-2024 10:58:55 Europe/Warsaw] {"nama":"calathea","plant_id":35,"is_deleted":0,"total_sold":null,"number_of_orders":0}
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 6:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Top selling plants for petani_id 3:
+[14-Nov-2024 10:58:55 Europe/Warsaw] Calathea plant details for petani_id 3:
